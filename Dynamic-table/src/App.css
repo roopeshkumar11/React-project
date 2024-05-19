@@ -1,0 +1,18 @@
+.crd{
+  border:  2px solid black;
+  height: auto;
+  width: 500px;
+text-align: center;
+  padding: 20px;
+  line-height: 30px;
+  margin-left: 30%;
+  margin-top: 50px;
+}
+H1{
+  text-align: center;
+}
+.loading{
+  
+  margin-left: 80px;
+  margin-top: 30px;
+}
