@@ -19,14 +19,14 @@ This repository is dedicated to a React project, showcasing a modern, component-
 ## Project Structure
 
 
-- **src/:** Main source directory containing React components, styles, and other assets.
-      - **components/:** Directory for reusable components.
-      - **pages/:** Directory for page components.
-      - **styles/:** Directory for CSS modules and styled-components.
-      - **App.js:** Main application component.
-      - **index.js:** Entry point for the React application.
-- **public/:** Public directory containing the HTML template and static assets.
-- **package.json:** File containing project dependencies and scripts
+- **src/:** Main source directory containing React components, styles, and other assets.<br>
+      - **components/:** Directory for reusable components.<br>
+      - **pages/:** Directory for page components.<br>
+      - **styles/:** Directory for CSS modules and styled-components.<br>
+      - **App.js:** Main application component.<br>
+      - **index.js:** Entry point for the React application.<br>
+- **public/:** Public directory containing the HTML template and static assets.<br>
+- **package.json:** File containing project dependencies and scripts<br>
 
 ## Acknowledgements
 
