@@ -13,7 +13,7 @@ This repository is dedicated to a React project, showcasing a modern, component-
 
 ## Requirements
 
--Node.js (v12.x or later)
+-Node.js (v12.x or later).
 -npm (v6.x or later) or yarn (v1.x or later)
 
 ## Project Structure
