@@ -1,0 +1,44 @@
+.navigation-menu{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+.navigation-menu li{
+    margin: 0px 20px;
+}
+.active{
+    color: goldenrod !important;
+    font-weight: bold !important;
+}
+.navigation-menu a{
+   
+    text-decoration: none;
+    color: white;
+}
+
+.mobile-navigation{
+    list-style: none;
+}
+
+.mobile-navigation li{
+    margin-top: 20px;
+}
+
+.mobile-navigation li a{
+    color: black;
+    text-decoration: none;
+}
+
+
+@media only screen and (max-width: 600px){
+    .logo .my{
+       
+       
+        display: flex;
+        justify-content: end;
+    }
+}
