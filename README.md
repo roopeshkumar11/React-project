@@ -4,16 +4,16 @@ This repository is dedicated to a React project, showcasing a modern, component-
 
 ## Features
 
-- **Component-Based Architecture:** Efficient and reusable components to build complex UIs.
-- **State Management:** Utilizes React's state and context API for managing application state.
-- **Routing:** Implements client-side routing using React Router for a seamless user experience.
-- **API Integration:** Fetches data from external APIs and integrates it into the application.
-- **Responsive Design:** Ensures the application is mobile-friendly and adapts to various screen sizes.
+- **Component-Based Architecture:** Efficient and reusable components to build complex UIs.<br>
+- **State Management:** Utilizes React's state and context API for managing application state.<br>
+- **Routing:** Implements client-side routing using React Router for a seamless user experience.<br>
+- **API Integration:** Fetches data from external APIs and integrates it into the application.<br>
+- **Responsive Design:** Ensures the application is mobile-friendly and adapts to various screen sizes.<br>
 - **Styling:** Uses CSS modules and styled-components for modular and scoped styling.
 
 ## Requirements
 
--Node.js (v12.x or later).
+-Node.js (v12.x or later).<br>
 -npm (v6.x or later) or yarn (v1.x or later)
 
 ## Project Structure
